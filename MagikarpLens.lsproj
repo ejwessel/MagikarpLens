@@ -1,0 +1,2094 @@
+{
+    "lens_id": "",
+    "document_id": "vVcgJFSt1wSyZdcYd4xO",
+    "original_document_id": "vVcgJFSt1wSyZdcYd4xO",
+    "version": "24",
+    "lastChanged": "1594690875378",
+    "preview": "icon.png",
+    "videoPreview": "preview.mp4",
+    "videoPreviewUpdateTime": "",
+    "isReadOnly": "false",
+    "isAutoSaved": "false",
+    "studioVersion": {
+        "createdWith": {
+            "type": "Public",
+            "major": "3",
+            "minor": "0",
+            "patch": "0",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "type": "Public",
+            "major": "3",
+            "minor": "0",
+            "patch": "0",
+            "build": "0"
+        }
+    },
+    "view": {
+        "ResourceUiComponent": {
+            "collapsedList": [
+                [
+                    [
+                        "Echopark"
+                    ],
+                    [
+                        "Echopark",
+                        "Diff"
+                    ],
+                    [
+                        "Echopark",
+                        "Specular"
+                    ],
+                    [
+                        "Pokemon",
+                        "Animations"
+                    ],
+                    [
+                        "Pokemon",
+                        "Materials",
+                        "Diffuse"
+                    ],
+                    [
+                        "Pokemon",
+                        "Materials",
+                        "Emissive"
+                    ],
+                    [
+                        "Pokemon",
+                        "Materials",
+                        "Glossiness"
+                    ],
+                    [
+                        "Pokemon",
+                        "Materials",
+                        "Normal"
+                    ],
+                    [
+                        "Pokemon",
+                        "Materials",
+                        "Occlusion"
+                    ],
+                    [
+                        "Pokemon",
+                        "Materials",
+                        "Pokemon"
+                    ],
+                    [
+                        "Pokemon",
+                        "Materials",
+                        "Specular"
+                    ],
+                    [
+                        "Pokemon",
+                        "Meshes"
+                    ],
+                    [
+                        "Pokemon",
+                        "Meshes",
+                        "Default"
+                    ],
+                    [
+                        "Pokemon",
+                        "Meshes",
+                        "Default 2"
+                    ],
+                    [
+                        "Pokemon",
+                        "Meshes",
+                        "Default 3"
+                    ],
+                    [
+                        "Pokemon",
+                        "Meshes",
+                        "Default 4"
+                    ],
+                    [
+                        "Pokemon",
+                        "Meshes",
+                        "Default 5"
+                    ],
+                    [
+                        "Pokemon",
+                        "Meshes",
+                        "Default 6"
+                    ],
+                    [
+                        "Pokemon",
+                        "Meshes",
+                        "Default 7"
+                    ],
+                    [
+                        "Pokemon",
+                        "Meshes",
+                        "Default 8"
+                    ],
+                    [
+                        "Pokemon",
+                        "Meshes",
+                        "Default 9"
+                    ],
+                    [
+                        "Pokemon",
+                        "Pokemon"
+                    ],
+                    [
+                        "Textures",
+                        "Base"
+                    ],
+                    [
+                        "Textures",
+                        "Magikarp_LOW_05_Pokemon_Ambient_Occlusion"
+                    ],
+                    [
+                        "Textures",
+                        "Magikarp_LOW_05_Pokemon_Diffuse"
+                    ],
+                    [
+                        "Textures",
+                        "Magikarp_LOW_05_Pokemon_Emissive"
+                    ],
+                    [
+                        "Textures",
+                        "Magikarp_LOW_05_Pokemon_Glossiness"
+                    ],
+                    [
+                        "Textures",
+                        "Magikarp_LOW_05_Pokemon_Normal"
+                    ],
+                    [
+                        "Textures",
+                        "Magikarp_LOW_05_Pokemon_Specular"
+                    ],
+                    [
+                        "Textures",
+                        "MaterialParams"
+                    ],
+                    [
+                        "Textures",
+                        "Normal"
+                    ],
+                    [
+                        "Textures",
+                        "white"
+                    ]
+                ]
+            ]
+        },
+        "SceneTreeUiComponent": {
+            "collapsedList": [
+                [
+                    "1594689052944006:86534"
+                ]
+            ]
+        },
+        "MetaInfoUIComponent": {
+            "video_preview_path": "preview.mp4",
+            "hints": "",
+            "lens": "Untitled",
+            "applicability": "3",
+            "lens_descriptors": ""
+        },
+        "PreviewUiComponent": {
+            "preview_descriptor": {
+                "is_capture": "0",
+                "camera_type": "2"
+            },
+            "show_snap_ui": "true",
+            "show_sponsored_ui": "false",
+            "preview_images_project_config": {
+                "back_preview_id": "bundle:Preview\/Images\/Beach.jpg",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/Images\/Person 1.jpg",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:Preview\/Images\/Pavement\/Pavement.jpg",
+                "spectacles_preview_is_favorite": "false"
+            },
+            "preview_videos_project_config": {
+                "back_preview_id": "bundle:Preview\/Videos\/Beach.webm",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/Videos\/Idle Person 1.webm",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:Preview\/Videos\/Climbing\/Climbing.webm",
+                "spectacles_preview_is_favorite": "false"
+            }
+        },
+        "InspectorUiComponent": {
+            "collapsedList": [
+                [
+                    "1594688423241652:6205"
+                ]
+            ]
+        },
+        "Material::UiComponent": {
+            "active_graph_asset": "-1:-1"
+        }
+    },
+    "model": {
+        "IResourceManager": {
+            "list": [
+                {
+                    "resId": "1",
+                    "uid": "1:1",
+                    "name": "Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "2",
+                    "uid": "2:2",
+                    "name": "Camera Input",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "10",
+                    "uid": "1588296316843646:534374",
+                    "name": "Files\/File3.jpeg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "11",
+                    "uid": "1588296316857901:534385",
+                    "name": "Files\/File5.jpeg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "82",
+                    "uid": "1594689519987284:152303",
+                    "name": "Files\/File152.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "83",
+                    "uid": "1594689520007356:152321",
+                    "name": "Files\/File154.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "84",
+                    "uid": "1594689520025565:152339",
+                    "name": "Files\/File156.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "85",
+                    "uid": "1594689520046029:152353",
+                    "name": "Files\/File158.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "86",
+                    "uid": "1594689520066425:152371",
+                    "name": "Files\/File160.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "87",
+                    "uid": "1594689520092000:152389",
+                    "name": "Files\/File162.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "88",
+                    "uid": "1594689520119354:152403",
+                    "name": "Files\/File164.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "89",
+                    "uid": "1594689520139118:152421",
+                    "name": "Files\/File166.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "90",
+                    "uid": "1594689520162686:152439",
+                    "name": "Files\/File168.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "91",
+                    "uid": "1594689520174061:152449",
+                    "name": "Files\/File170",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "92",
+                    "uid": "1594689520233976:152600",
+                    "name": "Pokemon",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "96",
+                    "uid": "1594689704612730:176797",
+                    "name": "Files\/File181",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "97",
+                    "uid": "1594689704663094:176843",
+                    "name": "Files\/File183.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "98",
+                    "uid": "1594689704690452:176859",
+                    "name": "Files\/File185.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "99",
+                    "uid": "1594689728111696:179942",
+                    "name": "Files\/File187.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "100",
+                    "uid": "1594689728420854:179991",
+                    "name": "Files\/File189.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "101",
+                    "uid": "1594689728852223:180275",
+                    "name": "Files\/File191.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "102",
+                    "uid": "1594689729279677:180565",
+                    "name": "Files\/File193.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "103",
+                    "uid": "1594689729726774:180864",
+                    "name": "Files\/File195.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "104",
+                    "uid": "1594689730104039:180921",
+                    "name": "Files\/File197.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "105",
+                    "uid": "1594689860936989:199060",
+                    "name": "Files\/File199",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "106",
+                    "uid": "1594689917017551:207403",
+                    "name": "Files\/File201",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "107",
+                    "uid": "1594689970467821:215204",
+                    "name": "Files\/File203",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "109",
+                    "uid": "1594690019870092:223032",
+                    "name": "Files\/File207.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "110",
+                    "uid": "1594690019894186:223048",
+                    "name": "Files\/File209.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "111",
+                    "uid": "1594690025309712:224048",
+                    "name": "Files\/File211",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "112",
+                    "uid": "1594690054723171:228612",
+                    "name": "Files\/File213",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                }
+            ],
+            "MaterialUpdateManager": {
+                "unrecognizedMaterials": ""
+            }
+        },
+        "InspectorComponent": {
+            "Component": {
+                "EyeColorVisual": {
+                    "uidData": "",
+                    "generalData": ""
+                },
+                "FaceStretchVisual": {
+                    "uidsToFeatureNamesWithIntensity": ""
+                },
+                "ScreenTransform": {
+                    "uidData": "",
+                    "generalData": ""
+                }
+            }
+        },
+        "RenderOrderComponent": {
+            "autoRenderOrder": {
+                "0": "1517446348227994:84813",
+                "1": "1517446348228144:84822",
+                "2": "1528843813151434:5126",
+                "3": "1594688423241052:6204",
+                "4": "1594688423241652:6205",
+                "5": "1594688423249320:6225",
+                "6": "1594689520415710:152720",
+                "7": "1594689520416463:152742",
+                "8": "1594689520418128:152759",
+                "9": "1594689520423639:152852",
+                "10": "1594689520426116:152869",
+                "11": "1594689520431317:152886",
+                "12": "1594689520434159:152903",
+                "13": "1594689520435544:152920",
+                "14": "1594689520436839:152937",
+                "15": "1594689520438492:152954"
+            }
+        },
+        "LayerComponent": {
+            "nextLayerId": "2",
+            "showOrthographicLayer": "false",
+            "layersInfo": [
+                {
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1",
+                    "colorCode": "20"
+                },
+                {
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576",
+                    "colorCode": "21"
+                }
+            ]
+        },
+        "IFileManager": {
+            "pathes": [
+                {
+                    "k": "3",
+                    "v": "Files\/File3.jpeg"
+                },
+                {
+                    "k": "4",
+                    "v": "Files\/File4.jpeg"
+                },
+                {
+                    "k": "5",
+                    "v": "Files\/File5.jpeg"
+                },
+                {
+                    "k": "6",
+                    "v": "Files\/File6.jpeg"
+                },
+                {
+                    "k": "7",
+                    "v": "Files\/File7.hdr"
+                },
+                {
+                    "k": "152",
+                    "v": "Files\/File152.mesh"
+                },
+                {
+                    "k": "153",
+                    "v": "Files\/File153.mesh"
+                },
+                {
+                    "k": "154",
+                    "v": "Files\/File154.mesh"
+                },
+                {
+                    "k": "155",
+                    "v": "Files\/File155.mesh"
+                },
+                {
+                    "k": "156",
+                    "v": "Files\/File156.mesh"
+                },
+                {
+                    "k": "157",
+                    "v": "Files\/File157.mesh"
+                },
+                {
+                    "k": "158",
+                    "v": "Files\/File158.mesh"
+                },
+                {
+                    "k": "159",
+                    "v": "Files\/File159.mesh"
+                },
+                {
+                    "k": "160",
+                    "v": "Files\/File160.mesh"
+                },
+                {
+                    "k": "161",
+                    "v": "Files\/File161.mesh"
+                },
+                {
+                    "k": "162",
+                    "v": "Files\/File162.mesh"
+                },
+                {
+                    "k": "163",
+                    "v": "Files\/File163.mesh"
+                },
+                {
+                    "k": "164",
+                    "v": "Files\/File164.mesh"
+                },
+                {
+                    "k": "165",
+                    "v": "Files\/File165.mesh"
+                },
+                {
+                    "k": "166",
+                    "v": "Files\/File166.mesh"
+                },
+                {
+                    "k": "167",
+                    "v": "Files\/File167.mesh"
+                },
+                {
+                    "k": "168",
+                    "v": "Files\/File168.mesh"
+                },
+                {
+                    "k": "169",
+                    "v": "Files\/File169.mesh"
+                },
+                {
+                    "k": "170",
+                    "v": "Files\/File170"
+                },
+                {
+                    "k": "171",
+                    "v": "Files\/File171.lsmat"
+                },
+                {
+                    "k": "172",
+                    "v": "Files\/File172.oprfb"
+                },
+                {
+                    "k": "173",
+                    "v": "Files\/File173.obj"
+                },
+                {
+                    "k": "174",
+                    "v": "Files\/File174.oprfb"
+                },
+                {
+                    "k": "181",
+                    "v": "Files\/File181"
+                },
+                {
+                    "k": "182",
+                    "v": "Files\/File182.lsmat"
+                },
+                {
+                    "k": "183",
+                    "v": "Files\/File183.png"
+                },
+                {
+                    "k": "184",
+                    "v": "Files\/File184.png"
+                },
+                {
+                    "k": "185",
+                    "v": "Files\/File185.png"
+                },
+                {
+                    "k": "186",
+                    "v": "Files\/File186.png"
+                },
+                {
+                    "k": "187",
+                    "v": "Files\/File187.jpg"
+                },
+                {
+                    "k": "188",
+                    "v": "Files\/File188.jpg"
+                },
+                {
+                    "k": "189",
+                    "v": "Files\/File189.jpg"
+                },
+                {
+                    "k": "190",
+                    "v": "Files\/File190.jpg"
+                },
+                {
+                    "k": "191",
+                    "v": "Files\/File191.jpg"
+                },
+                {
+                    "k": "192",
+                    "v": "Files\/File192.jpg"
+                },
+                {
+                    "k": "193",
+                    "v": "Files\/File193.jpg"
+                },
+                {
+                    "k": "194",
+                    "v": "Files\/File194.jpg"
+                },
+                {
+                    "k": "195",
+                    "v": "Files\/File195.jpg"
+                },
+                {
+                    "k": "196",
+                    "v": "Files\/File196.jpg"
+                },
+                {
+                    "k": "197",
+                    "v": "Files\/File197.jpg"
+                },
+                {
+                    "k": "198",
+                    "v": "Files\/File198.jpg"
+                },
+                {
+                    "k": "199",
+                    "v": "Files\/File199"
+                },
+                {
+                    "k": "200",
+                    "v": "Files\/File200.lsmat"
+                },
+                {
+                    "k": "201",
+                    "v": "Files\/File201"
+                },
+                {
+                    "k": "202",
+                    "v": "Files\/File202.lsmat"
+                },
+                {
+                    "k": "203",
+                    "v": "Files\/File203"
+                },
+                {
+                    "k": "204",
+                    "v": "Files\/File204.lsmat"
+                },
+                {
+                    "k": "207",
+                    "v": "Files\/File207.png"
+                },
+                {
+                    "k": "208",
+                    "v": "Files\/File208.png"
+                },
+                {
+                    "k": "209",
+                    "v": "Files\/File209.png"
+                },
+                {
+                    "k": "210",
+                    "v": "Files\/File210.png"
+                },
+                {
+                    "k": "211",
+                    "v": "Files\/File211"
+                },
+                {
+                    "k": "212",
+                    "v": "Files\/File212.lsmat"
+                },
+                {
+                    "k": "213",
+                    "v": "Files\/File213"
+                },
+                {
+                    "k": "214",
+                    "v": "Files\/File214.lsmat"
+                }
+            ]
+        },
+        "WorldComponent": {
+            "sceneFile": "scene.scn",
+            "sceneType": "binaryScene"
+        }
+    },
+    "controller": {
+        "IResourceController": {
+            "public": {
+                "pathes": [
+                    {
+                        "k": "967",
+                        "v": "Echopark.hdr"
+                    },
+                    {
+                        "k": "999",
+                        "v": "Pokemon.obj"
+                    },
+                    {
+                        "k": "1000",
+                        "v": "..\/AdditionalFiles\/Pokemon\/Materials"
+                    },
+                    {
+                        "k": "1001",
+                        "v": "..\/AdditionalFiles\/Pokemon\/Materials\/Pokemon.lsmat"
+                    },
+                    {
+                        "k": "1006",
+                        "v": "Textures"
+                    },
+                    {
+                        "k": "1007",
+                        "v": "Textures\/Base.png"
+                    },
+                    {
+                        "k": "1008",
+                        "v": "Textures\/white.png"
+                    },
+                    {
+                        "k": "1009",
+                        "v": "..\/AdditionalFiles\/Pokemon\/Materials\/Diffuse.lsmat"
+                    },
+                    {
+                        "k": "1010",
+                        "v": "Textures\/Magikarp_LOW_05_Pokemon_Ambient_Occlusion.jpg"
+                    },
+                    {
+                        "k": "1011",
+                        "v": "Textures\/Magikarp_LOW_05_Pokemon_Diffuse.jpg"
+                    },
+                    {
+                        "k": "1012",
+                        "v": "Textures\/Magikarp_LOW_05_Pokemon_Emissive.jpg"
+                    },
+                    {
+                        "k": "1013",
+                        "v": "Textures\/Magikarp_LOW_05_Pokemon_Glossiness.jpg"
+                    },
+                    {
+                        "k": "1014",
+                        "v": "Textures\/Magikarp_LOW_05_Pokemon_Normal.jpg"
+                    },
+                    {
+                        "k": "1015",
+                        "v": "Textures\/Magikarp_LOW_05_Pokemon_Specular.jpg"
+                    },
+                    {
+                        "k": "1016",
+                        "v": "..\/AdditionalFiles\/Pokemon\/Materials\/Occlusion.lsmat"
+                    },
+                    {
+                        "k": "1017",
+                        "v": "..\/AdditionalFiles\/Pokemon\/Materials\/Emissive.lsmat"
+                    },
+                    {
+                        "k": "1018",
+                        "v": "..\/AdditionalFiles\/Pokemon\/Materials\/Glossiness.lsmat"
+                    },
+                    {
+                        "k": "1019",
+                        "v": "Textures\/MaterialParams.png"
+                    },
+                    {
+                        "k": "1020",
+                        "v": "Textures\/Normal.png"
+                    },
+                    {
+                        "k": "1022",
+                        "v": "..\/AdditionalFiles\/Pokemon\/Materials\/Normal.lsmat"
+                    },
+                    {
+                        "k": "1023",
+                        "v": "..\/AdditionalFiles\/Pokemon\/Materials\/Specular.lsmat"
+                    }
+                ],
+                "hashes": [
+                    {
+                        "k": "1",
+                        "v": "671afbc1d6810060ccbaac866a91cfa1"
+                    },
+                    {
+                        "k": "2",
+                        "v": "8e599835d0d45c5879eafb1f474469cd"
+                    },
+                    {
+                        "k": "967",
+                        "v": "0cf0e87a54f33218fcf92a12d7f0ede2"
+                    },
+                    {
+                        "k": "968",
+                        "v": "380d880eaef9ec7bb60a5aecd525d674"
+                    },
+                    {
+                        "k": "970",
+                        "v": "34554d6676ee7dd64cc67bfee40a1c6c"
+                    },
+                    {
+                        "k": "971",
+                        "v": "d63307351e26c90c4a1d9cc2a97c8cc8"
+                    },
+                    {
+                        "k": "973",
+                        "v": "9e69a2ceecac1fe487ffda108cc20d0d"
+                    },
+                    {
+                        "k": "974",
+                        "v": "df7eb6a1d1663b0cabde19190498036e"
+                    },
+                    {
+                        "k": "975",
+                        "v": "f4883667f41e3571c8621efbbfd41148"
+                    },
+                    {
+                        "k": "976",
+                        "v": "5d516af08695dda78e3fb8ac167d22a2"
+                    },
+                    {
+                        "k": "977",
+                        "v": "c9b39ea778e45a1b2e71ec9841cee4c5"
+                    },
+                    {
+                        "k": "978",
+                        "v": "4f07f5e5d19fc537071a8fb37409ac82"
+                    },
+                    {
+                        "k": "979",
+                        "v": "12a59417ffb360bdcdc8b21e3da41732"
+                    },
+                    {
+                        "k": "980",
+                        "v": "8d109e73b5889ca8299b618d2532e6ee"
+                    },
+                    {
+                        "k": "981",
+                        "v": "8d109e73b5889ca8299b618d2532e6ee"
+                    },
+                    {
+                        "k": "982",
+                        "v": "12a59417ffb360bdcdc8b21e3da41732"
+                    },
+                    {
+                        "k": "983",
+                        "v": "4f07f5e5d19fc537071a8fb37409ac82"
+                    },
+                    {
+                        "k": "984",
+                        "v": "c9b39ea778e45a1b2e71ec9841cee4c5"
+                    },
+                    {
+                        "k": "985",
+                        "v": "5d516af08695dda78e3fb8ac167d22a2"
+                    },
+                    {
+                        "k": "986",
+                        "v": "f4883667f41e3571c8621efbbfd41148"
+                    },
+                    {
+                        "k": "987",
+                        "v": "380d880eaef9ec7bb60a5aecd525d674"
+                    },
+                    {
+                        "k": "989",
+                        "v": "34554d6676ee7dd64cc67bfee40a1c6c"
+                    },
+                    {
+                        "k": "990",
+                        "v": "12a59417ffb360bdcdc8b21e3da41732"
+                    },
+                    {
+                        "k": "991",
+                        "v": "8d109e73b5889ca8299b618d2532e6ee"
+                    },
+                    {
+                        "k": "992",
+                        "v": "d63307351e26c90c4a1d9cc2a97c8cc8"
+                    },
+                    {
+                        "k": "994",
+                        "v": "968cf5ba5f34062e81f4899b5a816120"
+                    },
+                    {
+                        "k": "995",
+                        "v": "0c9bbba582190ab5d994067a151c79d9"
+                    },
+                    {
+                        "k": "996",
+                        "v": "380d880eaef9ec7bb60a5aecd525d674"
+                    },
+                    {
+                        "k": "998",
+                        "v": "ea4950dd1bf8b15f1e87d796041d7e33"
+                    },
+                    {
+                        "k": "999",
+                        "v": "380d880eaef9ec7bb60a5aecd525d674"
+                    },
+                    {
+                        "k": "1001",
+                        "v": "208f077bacd6f9e65bfee84d8d766c64"
+                    },
+                    {
+                        "k": "1003",
+                        "v": "cb607d7b25a160872c49fb4d2635cc33"
+                    },
+                    {
+                        "k": "1004",
+                        "v": "0c8dcfed2f50bb81ac5276a14967c005"
+                    },
+                    {
+                        "k": "1005",
+                        "v": "ba3293a92c5df03290a9c4e77995550a"
+                    },
+                    {
+                        "k": "1007",
+                        "v": "cb607d7b25a160872c49fb4d2635cc33"
+                    },
+                    {
+                        "k": "1008",
+                        "v": "0c8dcfed2f50bb81ac5276a14967c005"
+                    },
+                    {
+                        "k": "1009",
+                        "v": "e24afd441344f62e1b5aa98704617650"
+                    },
+                    {
+                        "k": "1010",
+                        "v": "f4883667f41e3571c8621efbbfd41148"
+                    },
+                    {
+                        "k": "1011",
+                        "v": "5d516af08695dda78e3fb8ac167d22a2"
+                    },
+                    {
+                        "k": "1012",
+                        "v": "c9b39ea778e45a1b2e71ec9841cee4c5"
+                    },
+                    {
+                        "k": "1013",
+                        "v": "4f07f5e5d19fc537071a8fb37409ac82"
+                    },
+                    {
+                        "k": "1014",
+                        "v": "12a59417ffb360bdcdc8b21e3da41732"
+                    },
+                    {
+                        "k": "1015",
+                        "v": "8d109e73b5889ca8299b618d2532e6ee"
+                    },
+                    {
+                        "k": "1016",
+                        "v": "a4ccb73d83db9380a42a565c34ebf373"
+                    },
+                    {
+                        "k": "1017",
+                        "v": "96c458d154234ecc152882cc409e031a"
+                    },
+                    {
+                        "k": "1018",
+                        "v": "3d470ca59e5e63d85bd7cab45855a66c"
+                    },
+                    {
+                        "k": "1019",
+                        "v": "af2715bddfbca2d4e72f470d285c5010"
+                    },
+                    {
+                        "k": "1020",
+                        "v": "8a0173d0b987e1abfebd4ef9e3304c0b"
+                    },
+                    {
+                        "k": "1021",
+                        "v": "e21de992e4f333fc6d73145d584ca1ce"
+                    },
+                    {
+                        "k": "1022",
+                        "v": "1c761e15c1f91d4994a3dc584544eec6"
+                    },
+                    {
+                        "k": "1023",
+                        "v": "d264f0770709a10547d583b5a6633b5d"
+                    }
+                ],
+                "publicState": {
+                    "tree": {
+                        "isFolder": "true",
+                        "lastModified": "2020-07-13T18:27:09",
+                        "name": "Public",
+                        "hash": "ba13ab6225a5b2762b5ae2209cced27e",
+                        "children": [
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2020-07-13T18:26:59",
+                                "name": "Textures",
+                                "hash": "d60c18ddd6229eaceadf5d964e5c7218",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2016-09-12T18:07:24",
+                                        "name": "Magikarp_LOW_05_Pokemon_Ambient_Occlusion.jpg",
+                                        "hash": "f4883667f41e3571c8621efbbfd41148",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2016-09-12T18:07:30",
+                                        "name": "Magikarp_LOW_05_Pokemon_Emissive.jpg",
+                                        "hash": "c9b39ea778e45a1b2e71ec9841cee4c5",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2016-09-12T18:07:16",
+                                        "name": "Magikarp_LOW_05_Pokemon_Glossiness.jpg",
+                                        "hash": "4f07f5e5d19fc537071a8fb37409ac82",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2016-09-12T18:07:22",
+                                        "name": "Magikarp_LOW_05_Pokemon_Normal.jpg",
+                                        "hash": "12a59417ffb360bdcdc8b21e3da41732",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2016-09-12T18:07:06",
+                                        "name": "Magikarp_LOW_05_Pokemon_Diffuse.jpg",
+                                        "hash": "5d516af08695dda78e3fb8ac167d22a2",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-07-13T18:26:59",
+                                        "name": "MaterialParams.png",
+                                        "hash": "af2715bddfbca2d4e72f470d285c5010",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-07-13T18:21:44",
+                                        "name": "Base.png",
+                                        "hash": "cb607d7b25a160872c49fb4d2635cc33",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-07-13T18:26:59",
+                                        "name": "Normal.png",
+                                        "hash": "8a0173d0b987e1abfebd4ef9e3304c0b",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2016-09-12T18:07:12",
+                                        "name": "Magikarp_LOW_05_Pokemon_Specular.jpg",
+                                        "hash": "8d109e73b5889ca8299b618d2532e6ee",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-07-13T18:21:44",
+                                        "name": "white.png",
+                                        "hash": "0c8dcfed2f50bb81ac5276a14967c005",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-07-13T18:21:44",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2017-03-15T14:48:12",
+                                "name": "Pokemon.obj",
+                                "hash": "380d880eaef9ec7bb60a5aecd525d674",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-06-03T23:09:59",
+                                "name": "Echopark.hdr",
+                                "hash": "0cf0e87a54f33218fcf92a12d7f0ede2",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-06-03T23:09:17",
+                                "name": "folder.lock",
+                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                "children": ""
+                            }
+                        ]
+                    }
+                },
+                "complexResources": ""
+            },
+            "tree": {
+                "name": "",
+                "type": "0",
+                "subtype": "-1",
+                "resourceId": "-1",
+                "dependency": "0",
+                "uid": "-1:-1",
+                "fileId": "18446744073709551615",
+                "originalId": "18446744073709551615",
+                "publicId": "18446744073709551615",
+                "source": "",
+                "additional": "",
+                "resources": [
+                    {
+                        "name": "Render Target",
+                        "type": "1",
+                        "subtype": "1",
+                        "resourceId": "1",
+                        "dependency": "0",
+                        "uid": "1:1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Device Camera Texture",
+                        "type": "1",
+                        "subtype": "3",
+                        "resourceId": "2",
+                        "dependency": "0",
+                        "uid": "2:2",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Echopark",
+                        "type": "9",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "2",
+                        "uid": "-1:-1",
+                        "fileId": "7",
+                        "originalId": "18446744073709551615",
+                        "publicId": "967",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Diff",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "10",
+                                "dependency": "1",
+                                "uid": "1588296316843646:534374",
+                                "fileId": "3",
+                                "originalId": "4",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Specular",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "11",
+                                "dependency": "1",
+                                "uid": "1588296316857901:534385",
+                                "fileId": "5",
+                                "originalId": "6",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Pokemon",
+                        "type": "18",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "2",
+                        "uid": "-1:-1",
+                        "fileId": "173",
+                        "originalId": "18446744073709551615",
+                        "publicId": "999",
+                        "source": "\/Users\/ejwessel\/Downloads\/Magikarp_OBJ\/Pokemon.obj",
+                        "additional": {
+                            "materialMapping": [
+                                {
+                                    "k": "Pokemon",
+                                    "v": "1594689520174061:152449"
+                                }
+                            ]
+                        },
+                        "resources": [
+                            {
+                                "name": "Meshes",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "1",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "Default",
+                                        "type": "3",
+                                        "subtype": "0",
+                                        "resourceId": "82",
+                                        "dependency": "1",
+                                        "uid": "1594689519987284:152303",
+                                        "fileId": "152",
+                                        "originalId": "153",
+                                        "publicId": "18446744073709551615",
+                                        "source": "\/private\/var\/folders\/3l\/pxx9ncrs6j38399lw07gqxbw0000gn\/T\/Lens Studio-HONMpa\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                        "additional": {
+                                            "originalAttribs": {
+                                                "vertexAttribs": [
+                                                    {
+                                                        "semantic": "position",
+                                                        "format": "9",
+                                                        "index": "0"
+                                                    },
+                                                    {
+                                                        "semantic": "normal",
+                                                        "format": "9",
+                                                        "index": "1"
+                                                    },
+                                                    {
+                                                        "semantic": "tangent",
+                                                        "format": "9",
+                                                        "index": "2"
+                                                    },
+                                                    {
+                                                        "semantic": "texture0",
+                                                        "format": "9",
+                                                        "index": "3"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "name": "Default 2",
+                                        "type": "3",
+                                        "subtype": "0",
+                                        "resourceId": "83",
+                                        "dependency": "1",
+                                        "uid": "1594689520007356:152321",
+                                        "fileId": "154",
+                                        "originalId": "155",
+                                        "publicId": "18446744073709551615",
+                                        "source": "\/private\/var\/folders\/3l\/pxx9ncrs6j38399lw07gqxbw0000gn\/T\/Lens Studio-HONMpa\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                        "additional": {
+                                            "originalAttribs": {
+                                                "vertexAttribs": [
+                                                    {
+                                                        "semantic": "position",
+                                                        "format": "9",
+                                                        "index": "0"
+                                                    },
+                                                    {
+                                                        "semantic": "normal",
+                                                        "format": "9",
+                                                        "index": "1"
+                                                    },
+                                                    {
+                                                        "semantic": "tangent",
+                                                        "format": "9",
+                                                        "index": "2"
+                                                    },
+                                                    {
+                                                        "semantic": "texture0",
+                                                        "format": "9",
+                                                        "index": "3"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "name": "Default 3",
+                                        "type": "3",
+                                        "subtype": "0",
+                                        "resourceId": "84",
+                                        "dependency": "1",
+                                        "uid": "1594689520025565:152339",
+                                        "fileId": "156",
+                                        "originalId": "157",
+                                        "publicId": "18446744073709551615",
+                                        "source": "\/private\/var\/folders\/3l\/pxx9ncrs6j38399lw07gqxbw0000gn\/T\/Lens Studio-HONMpa\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                        "additional": {
+                                            "originalAttribs": {
+                                                "vertexAttribs": [
+                                                    {
+                                                        "semantic": "position",
+                                                        "format": "9",
+                                                        "index": "0"
+                                                    },
+                                                    {
+                                                        "semantic": "normal",
+                                                        "format": "9",
+                                                        "index": "1"
+                                                    },
+                                                    {
+                                                        "semantic": "tangent",
+                                                        "format": "9",
+                                                        "index": "2"
+                                                    },
+                                                    {
+                                                        "semantic": "texture0",
+                                                        "format": "9",
+                                                        "index": "3"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "name": "Default 4",
+                                        "type": "3",
+                                        "subtype": "0",
+                                        "resourceId": "85",
+                                        "dependency": "1",
+                                        "uid": "1594689520046029:152353",
+                                        "fileId": "158",
+                                        "originalId": "159",
+                                        "publicId": "18446744073709551615",
+                                        "source": "\/private\/var\/folders\/3l\/pxx9ncrs6j38399lw07gqxbw0000gn\/T\/Lens Studio-HONMpa\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                        "additional": {
+                                            "originalAttribs": {
+                                                "vertexAttribs": [
+                                                    {
+                                                        "semantic": "position",
+                                                        "format": "9",
+                                                        "index": "0"
+                                                    },
+                                                    {
+                                                        "semantic": "normal",
+                                                        "format": "9",
+                                                        "index": "1"
+                                                    },
+                                                    {
+                                                        "semantic": "tangent",
+                                                        "format": "9",
+                                                        "index": "2"
+                                                    },
+                                                    {
+                                                        "semantic": "texture0",
+                                                        "format": "9",
+                                                        "index": "3"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "name": "Default 5",
+                                        "type": "3",
+                                        "subtype": "0",
+                                        "resourceId": "86",
+                                        "dependency": "1",
+                                        "uid": "1594689520066425:152371",
+                                        "fileId": "160",
+                                        "originalId": "161",
+                                        "publicId": "18446744073709551615",
+                                        "source": "\/private\/var\/folders\/3l\/pxx9ncrs6j38399lw07gqxbw0000gn\/T\/Lens Studio-HONMpa\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                        "additional": {
+                                            "originalAttribs": {
+                                                "vertexAttribs": [
+                                                    {
+                                                        "semantic": "position",
+                                                        "format": "9",
+                                                        "index": "0"
+                                                    },
+                                                    {
+                                                        "semantic": "normal",
+                                                        "format": "9",
+                                                        "index": "1"
+                                                    },
+                                                    {
+                                                        "semantic": "tangent",
+                                                        "format": "9",
+                                                        "index": "2"
+                                                    },
+                                                    {
+                                                        "semantic": "texture0",
+                                                        "format": "9",
+                                                        "index": "3"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "name": "Default 6",
+                                        "type": "3",
+                                        "subtype": "0",
+                                        "resourceId": "87",
+                                        "dependency": "1",
+                                        "uid": "1594689520092000:152389",
+                                        "fileId": "162",
+                                        "originalId": "163",
+                                        "publicId": "18446744073709551615",
+                                        "source": "\/private\/var\/folders\/3l\/pxx9ncrs6j38399lw07gqxbw0000gn\/T\/Lens Studio-HONMpa\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                        "additional": {
+                                            "originalAttribs": {
+                                                "vertexAttribs": [
+                                                    {
+                                                        "semantic": "position",
+                                                        "format": "9",
+                                                        "index": "0"
+                                                    },
+                                                    {
+                                                        "semantic": "normal",
+                                                        "format": "9",
+                                                        "index": "1"
+                                                    },
+                                                    {
+                                                        "semantic": "tangent",
+                                                        "format": "9",
+                                                        "index": "2"
+                                                    },
+                                                    {
+                                                        "semantic": "texture0",
+                                                        "format": "9",
+                                                        "index": "3"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "name": "Default 7",
+                                        "type": "3",
+                                        "subtype": "0",
+                                        "resourceId": "88",
+                                        "dependency": "1",
+                                        "uid": "1594689520119354:152403",
+                                        "fileId": "164",
+                                        "originalId": "165",
+                                        "publicId": "18446744073709551615",
+                                        "source": "\/private\/var\/folders\/3l\/pxx9ncrs6j38399lw07gqxbw0000gn\/T\/Lens Studio-HONMpa\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                        "additional": {
+                                            "originalAttribs": {
+                                                "vertexAttribs": [
+                                                    {
+                                                        "semantic": "position",
+                                                        "format": "9",
+                                                        "index": "0"
+                                                    },
+                                                    {
+                                                        "semantic": "normal",
+                                                        "format": "9",
+                                                        "index": "1"
+                                                    },
+                                                    {
+                                                        "semantic": "tangent",
+                                                        "format": "9",
+                                                        "index": "2"
+                                                    },
+                                                    {
+                                                        "semantic": "texture0",
+                                                        "format": "9",
+                                                        "index": "3"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "name": "Default 8",
+                                        "type": "3",
+                                        "subtype": "0",
+                                        "resourceId": "89",
+                                        "dependency": "1",
+                                        "uid": "1594689520139118:152421",
+                                        "fileId": "166",
+                                        "originalId": "167",
+                                        "publicId": "18446744073709551615",
+                                        "source": "\/private\/var\/folders\/3l\/pxx9ncrs6j38399lw07gqxbw0000gn\/T\/Lens Studio-HONMpa\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                        "additional": {
+                                            "originalAttribs": {
+                                                "vertexAttribs": [
+                                                    {
+                                                        "semantic": "position",
+                                                        "format": "9",
+                                                        "index": "0"
+                                                    },
+                                                    {
+                                                        "semantic": "normal",
+                                                        "format": "9",
+                                                        "index": "1"
+                                                    },
+                                                    {
+                                                        "semantic": "tangent",
+                                                        "format": "9",
+                                                        "index": "2"
+                                                    },
+                                                    {
+                                                        "semantic": "texture0",
+                                                        "format": "9",
+                                                        "index": "3"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "name": "Default 9",
+                                        "type": "3",
+                                        "subtype": "0",
+                                        "resourceId": "90",
+                                        "dependency": "1",
+                                        "uid": "1594689520162686:152439",
+                                        "fileId": "168",
+                                        "originalId": "169",
+                                        "publicId": "18446744073709551615",
+                                        "source": "\/private\/var\/folders\/3l\/pxx9ncrs6j38399lw07gqxbw0000gn\/T\/Lens Studio-HONMpa\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                        "additional": {
+                                            "originalAttribs": {
+                                                "vertexAttribs": [
+                                                    {
+                                                        "semantic": "position",
+                                                        "format": "9",
+                                                        "index": "0"
+                                                    },
+                                                    {
+                                                        "semantic": "normal",
+                                                        "format": "9",
+                                                        "index": "1"
+                                                    },
+                                                    {
+                                                        "semantic": "tangent",
+                                                        "format": "9",
+                                                        "index": "2"
+                                                    },
+                                                    {
+                                                        "semantic": "texture0",
+                                                        "format": "9",
+                                                        "index": "3"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Animations",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "1",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": "",
+                                "resources": ""
+                            },
+                            {
+                                "name": "Materials",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "1000",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "Pokemon",
+                                        "type": "2",
+                                        "subtype": "0",
+                                        "resourceId": "91",
+                                        "dependency": "0",
+                                        "uid": "1594689520174061:152449",
+                                        "fileId": "170",
+                                        "originalId": "171",
+                                        "publicId": "1001",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "Emissive",
+                                        "type": "2",
+                                        "subtype": "0",
+                                        "resourceId": "106",
+                                        "dependency": "0",
+                                        "uid": "1594689917017551:207403",
+                                        "fileId": "201",
+                                        "originalId": "202",
+                                        "publicId": "1017",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "Occlusion",
+                                        "type": "2",
+                                        "subtype": "0",
+                                        "resourceId": "105",
+                                        "dependency": "0",
+                                        "uid": "1594689860936989:199060",
+                                        "fileId": "199",
+                                        "originalId": "200",
+                                        "publicId": "1016",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "Diffuse",
+                                        "type": "2",
+                                        "subtype": "0",
+                                        "resourceId": "96",
+                                        "dependency": "0",
+                                        "uid": "1594689704612730:176797",
+                                        "fileId": "181",
+                                        "originalId": "182",
+                                        "publicId": "1009",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "Glossiness",
+                                        "type": "2",
+                                        "subtype": "0",
+                                        "resourceId": "107",
+                                        "dependency": "0",
+                                        "uid": "1594689970467821:215204",
+                                        "fileId": "203",
+                                        "originalId": "204",
+                                        "publicId": "1018",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "Normal",
+                                        "type": "2",
+                                        "subtype": "0",
+                                        "resourceId": "111",
+                                        "dependency": "0",
+                                        "uid": "1594690025309712:224048",
+                                        "fileId": "211",
+                                        "originalId": "212",
+                                        "publicId": "1022",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "Specular",
+                                        "type": "2",
+                                        "subtype": "0",
+                                        "resourceId": "112",
+                                        "dependency": "0",
+                                        "uid": "1594690054723171:228612",
+                                        "fileId": "213",
+                                        "originalId": "214",
+                                        "publicId": "1023",
+                                        "source": "",
+                                        "additional": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Pokemon",
+                                "type": "12",
+                                "subtype": "-1",
+                                "resourceId": "92",
+                                "dependency": "1",
+                                "uid": "1594689520233976:152600",
+                                "fileId": "172",
+                                "originalId": "174",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Textures",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "1006",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Base",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "97",
+                                "dependency": "0",
+                                "uid": "1594689704663094:176843",
+                                "fileId": "183",
+                                "originalId": "184",
+                                "publicId": "1007",
+                                "source": "\/private\/var\/folders\/3l\/pxx9ncrs6j38399lw07gqxbw0000gn\/T\/Lens Studio-HONMpa\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                "additional": ""
+                            },
+                            {
+                                "name": "white",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "98",
+                                "dependency": "0",
+                                "uid": "1594689704690452:176859",
+                                "fileId": "185",
+                                "originalId": "186",
+                                "publicId": "1008",
+                                "source": "\/private\/var\/folders\/3l\/pxx9ncrs6j38399lw07gqxbw0000gn\/T\/Lens Studio-HONMpa\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Magikarp_LOW_05_Pokemon_Ambient_Occlusion",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "99",
+                                "dependency": "0",
+                                "uid": "1594689728111696:179942",
+                                "fileId": "187",
+                                "originalId": "188",
+                                "publicId": "1010",
+                                "source": "\/Users\/ejwessel\/Downloads\/Magikarp_OBJ\/Magikarp_LOW_05_Pokemon_Ambient_Occlusion.jpg",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Magikarp_LOW_05_Pokemon_Diffuse",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "100",
+                                "dependency": "0",
+                                "uid": "1594689728420854:179991",
+                                "fileId": "189",
+                                "originalId": "190",
+                                "publicId": "1011",
+                                "source": "\/Users\/ejwessel\/Downloads\/Magikarp_OBJ\/Magikarp_LOW_05_Pokemon_Diffuse.jpg",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Magikarp_LOW_05_Pokemon_Emissive",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "101",
+                                "dependency": "0",
+                                "uid": "1594689728852223:180275",
+                                "fileId": "191",
+                                "originalId": "192",
+                                "publicId": "1012",
+                                "source": "\/Users\/ejwessel\/Downloads\/Magikarp_OBJ\/Magikarp_LOW_05_Pokemon_Emissive.jpg",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Magikarp_LOW_05_Pokemon_Glossiness",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "102",
+                                "dependency": "0",
+                                "uid": "1594689729279677:180565",
+                                "fileId": "193",
+                                "originalId": "194",
+                                "publicId": "1013",
+                                "source": "\/Users\/ejwessel\/Downloads\/Magikarp_OBJ\/Magikarp_LOW_05_Pokemon_Glossiness.jpg",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Magikarp_LOW_05_Pokemon_Normal",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "103",
+                                "dependency": "0",
+                                "uid": "1594689729726774:180864",
+                                "fileId": "195",
+                                "originalId": "196",
+                                "publicId": "1014",
+                                "source": "\/Users\/ejwessel\/Downloads\/Magikarp_OBJ\/Magikarp_LOW_05_Pokemon_Normal.jpg",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Magikarp_LOW_05_Pokemon_Specular",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "104",
+                                "dependency": "0",
+                                "uid": "1594689730104039:180921",
+                                "fileId": "197",
+                                "originalId": "198",
+                                "publicId": "1015",
+                                "source": "\/Users\/ejwessel\/Downloads\/Magikarp_OBJ\/Magikarp_LOW_05_Pokemon_Specular.jpg",
+                                "additional": ""
+                            },
+                            {
+                                "name": "MaterialParams",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "109",
+                                "dependency": "0",
+                                "uid": "1594690019870092:223032",
+                                "fileId": "207",
+                                "originalId": "208",
+                                "publicId": "1019",
+                                "source": "\/private\/var\/folders\/3l\/pxx9ncrs6j38399lw07gqxbw0000gn\/T\/Lens Studio-HONMpa\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Normal",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "110",
+                                "dependency": "0",
+                                "uid": "1594690019894186:223048",
+                                "fileId": "209",
+                                "originalId": "210",
+                                "publicId": "1020",
+                                "source": "\/private\/var\/folders\/3l\/pxx9ncrs6j38399lw07gqxbw0000gn\/T\/Lens Studio-HONMpa\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                "additional": ""
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        "InspectorController": {
+            "selection": {
+                "objects": [
+                    "1594689520416463:152742",
+                    "1594689520418128:152759",
+                    "1594689520423639:152852",
+                    "1594689520426116:152869",
+                    "1594689520431317:152886",
+                    "1594689520434159:152903",
+                    "1594689520435544:152920",
+                    "1594689520436839:152937",
+                    "1594689520438492:152954"
+                ]
+            }
+        },
+        "EffectsController": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "10": "",
+            "11": "",
+            "12": "",
+            "13": "",
+            "14": "",
+            "15": "",
+            "16": "",
+            "17": "",
+            "18": "",
+            "19": "",
+            "20": "",
+            "22": "",
+            "23": "",
+            "24": "",
+            "25": ""
+        },
+        "ObjectPrefabController": {
+            "state": {
+                "objectToInfo": [
+                    {
+                        "k": "1594689520415710:152720",
+                        "v": {
+                            "prefab": "1594689520233976:152600",
+                            "isActive": "true",
+                            "mapping": [
+                                {
+                                    "k": "1594689520217267:152468",
+                                    "v": "1594689520415710:152720"
+                                },
+                                {
+                                    "k": "1594689520218067:152470",
+                                    "v": "1594689520416463:152742"
+                                },
+                                {
+                                    "k": "1594689520218458:152472",
+                                    "v": "1594689520416747:152744"
+                                },
+                                {
+                                    "k": "1594689520219743:152484",
+                                    "v": "1594689520418128:152759"
+                                },
+                                {
+                                    "k": "1594689520220133:152486",
+                                    "v": "1594689520422119:152837"
+                                },
+                                {
+                                    "k": "1594689520221918:152502",
+                                    "v": "1594689520423639:152852"
+                                },
+                                {
+                                    "k": "1594689520222526:152504",
+                                    "v": "1594689520424120:152854"
+                                },
+                                {
+                                    "k": "1594689520224073:152516",
+                                    "v": "1594689520426116:152869"
+                                },
+                                {
+                                    "k": "1594689520224638:152518",
+                                    "v": "1594689520426768:152871"
+                                },
+                                {
+                                    "k": "1594689520225708:152530",
+                                    "v": "1594689520431317:152886"
+                                },
+                                {
+                                    "k": "1594689520226079:152532",
+                                    "v": "1594689520432202:152888"
+                                },
+                                {
+                                    "k": "1594689520226935:152544",
+                                    "v": "1594689520434159:152903"
+                                },
+                                {
+                                    "k": "1594689520227235:152546",
+                                    "v": "1594689520434540:152905"
+                                },
+                                {
+                                    "k": "1594689520227953:152558",
+                                    "v": "1594689520435544:152920"
+                                },
+                                {
+                                    "k": "1594689520228284:152560",
+                                    "v": "1594689520435847:152922"
+                                },
+                                {
+                                    "k": "1594689520229236:152572",
+                                    "v": "1594689520436839:152937"
+                                },
+                                {
+                                    "k": "1594689520229890:152574",
+                                    "v": "1594689520437215:152939"
+                                },
+                                {
+                                    "k": "1594689520231334:152586",
+                                    "v": "1594689520438492:152954"
+                                },
+                                {
+                                    "k": "1594689520231958:152588",
+                                    "v": "1594689520438826:152956"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            },
+            "importInfo": [
+                {
+                    "k": "1594689520233976:152600",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1594689520217267:152468"
+                        },
+                        {
+                            "k": [
+                                "Default"
+                            ],
+                            "v": "1594689520231334:152586"
+                        },
+                        {
+                            "k": [
+                                "Default",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1594689520231958:152588"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
