@@ -1,9 +1,9 @@
 {
-    "lens_id": "",
+    "lens_id": "16bf5294-5175-4972-99f5-52f910a55373",
     "document_id": "vVcgJFSt1wSyZdcYd4xO",
     "original_document_id": "vVcgJFSt1wSyZdcYd4xO",
     "version": "24",
-    "lastChanged": "1594787540852",
+    "lastChanged": "1594788843133",
     "preview": "icon.png",
     "videoPreview": "preview.mp4",
     "videoPreviewUpdateTime": "",
@@ -39,6 +39,9 @@
                     [
                         "Echopark",
                         "Specular"
+                    ],
+                    [
+                        "IconSource"
                     ],
                     [
                         "Pokemon",
@@ -145,9 +148,6 @@
                         "PositionBasedDynamicsHelpers"
                     ],
                     [
-                        "Sphere"
-                    ],
-                    [
                         "Textures"
                     ],
                     [
@@ -196,18 +196,19 @@
         "SceneTreeUiComponent": {
             "collapsedList": [
                 [
-                    "1594689052944006:86534"
+                    "1594689052944006:86534",
+                    "1594788015666841:940755"
                 ]
             ]
         },
         "MetaInfoUIComponent": {
-            "icon_hash": "56814dbefc6c60009fe6066406087653",
+            "icon_hash": "aaeed79d28758c10b74a22b931030543",
             "icon_path": "icon.png",
             "video_preview_path": "preview.mp4",
             "hints": [
                 ""
             ],
-            "lens": "Magikarp",
+            "lens": "Magikarp Hat",
             "applicability": "3",
             "lens_descriptors": ""
         },
@@ -523,9 +524,9 @@
                     "flags": "1"
                 },
                 {
-                    "resId": "116",
-                    "uid": "1594782887817538:14443",
-                    "name": "Files\/File218.mesh",
+                    "resId": "117",
+                    "uid": "1594788609674975:1031471",
+                    "name": "Files\/File220.png",
                     "sourceFilePath": "",
                     "additionalProperties": "",
                     "flags": "1"
@@ -573,7 +574,7 @@
         },
         "LayerComponent": {
             "nextLayerId": "2",
-            "showOrthographicLayer": "false",
+            "showOrthographicLayer": "true",
             "layersInfo": [
                 {
                     "layerId": "0",
@@ -844,12 +845,12 @@
                     "v": "Files\/File217.js"
                 },
                 {
-                    "k": "218",
-                    "v": "Files\/File218.mesh"
+                    "k": "220",
+                    "v": "Files\/File220.png"
                 },
                 {
-                    "k": "219",
-                    "v": "Files\/File219.mesh"
+                    "k": "221",
+                    "v": "Files\/File221.png"
                 }
             ]
         },
@@ -963,8 +964,8 @@
                         "v": "Scripts\/PositionBasedDynamicsHelpers.js"
                     },
                     {
-                        "k": "1033",
-                        "v": "Sphere.mesh"
+                        "k": "1034",
+                        "v": "IconSource.png"
                     }
                 ],
                 "hashes": [
@@ -1202,7 +1203,7 @@
                     },
                     {
                         "k": "1034",
-                        "v": "d3ffbd3144a880f5c980be6dae0f4110"
+                        "v": "1a12f4b46da84491c1ed4d4de385222f"
                     },
                     {
                         "k": "1035",
@@ -1212,9 +1213,9 @@
                 "publicState": {
                     "tree": {
                         "isFolder": "true",
-                        "lastModified": "2020-07-14T20:14:47",
+                        "lastModified": "2020-07-14T21:50:13",
                         "name": "Public",
-                        "hash": "cce38c951b76bee68cbebbe509a4a31e",
+                        "hash": "9f732861027844ebb14e6d02f6965aac",
                         "children": [
                             {
                                 "isFolder": "true",
@@ -1346,16 +1347,16 @@
                             },
                             {
                                 "isFolder": "false",
-                                "lastModified": "2020-07-14T20:14:47",
-                                "name": "Sphere.mesh",
-                                "hash": "0484abd87ee78b2745eb9563b19fd6a2",
+                                "lastModified": "2020-07-13T18:57:23",
+                                "name": "Echopark.hdr",
+                                "hash": "0cf0e87a54f33218fcf92a12d7f0ede2",
                                 "children": ""
                             },
                             {
                                 "isFolder": "false",
-                                "lastModified": "2020-07-13T18:57:23",
-                                "name": "Echopark.hdr",
-                                "hash": "0cf0e87a54f33218fcf92a12d7f0ede2",
+                                "lastModified": "2020-07-14T21:49:59",
+                                "name": "IconSource.png",
+                                "hash": "1a12f4b46da84491c1ed4d4de385222f",
                                 "children": ""
                             },
                             {
@@ -2162,53 +2163,32 @@
                         ]
                     },
                     {
-                        "name": "Sphere",
-                        "type": "3",
-                        "subtype": "0",
-                        "resourceId": "116",
+                        "name": "IconSource",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "117",
                         "dependency": "0",
-                        "uid": "1594782887817538:14443",
-                        "fileId": "218",
-                        "originalId": "219",
-                        "publicId": "1033",
-                        "source": "\/private\/var\/folders\/3l\/pxx9ncrs6j38399lw07gqxbw0000gn\/T\/Lens Studio-jkgXBc\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
-                        "additional": {
-                            "originalAttribs": {
-                                "vertexAttribs": [
-                                    {
-                                        "semantic": "position",
-                                        "format": "9",
-                                        "index": "0"
-                                    },
-                                    {
-                                        "semantic": "normal",
-                                        "format": "9",
-                                        "index": "1"
-                                    },
-                                    {
-                                        "semantic": "tangent",
-                                        "format": "9",
-                                        "index": "2"
-                                    },
-                                    {
-                                        "semantic": "bitangent",
-                                        "format": "9",
-                                        "index": "3"
-                                    },
-                                    {
-                                        "semantic": "texture0",
-                                        "format": "9",
-                                        "index": "4"
-                                    }
-                                ]
-                            }
-                        }
+                        "uid": "1594788609674975:1031471",
+                        "fileId": "220",
+                        "originalId": "221",
+                        "publicId": "1034",
+                        "source": "\/Users\/ejwessel\/Desktop\/Screen Shot 2020-07-14 at 21.49.53.png",
+                        "additional": ""
                     }
                 ]
             }
         },
         "InspectorController": {
-            "selection": ""
+            "selection": {
+                "resources": [
+                    {
+                        "uid": "1594788609674975:1031471",
+                        "path_list": [
+                            "Screen Shot 2020-07-14 at 21"
+                        ]
+                    }
+                ]
+            }
         },
         "EffectsController": {
             "1": "",
