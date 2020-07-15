@@ -3,7 +3,7 @@
     "document_id": "vVcgJFSt1wSyZdcYd4xO",
     "original_document_id": "vVcgJFSt1wSyZdcYd4xO",
     "version": "24",
-    "lastChanged": "1594783598246",
+    "lastChanged": "1594787290011",
     "preview": "icon.png",
     "videoPreview": "preview.mp4",
     "videoPreviewUpdateTime": "",
@@ -221,7 +221,7 @@
             "preview_images_project_config": {
                 "back_preview_id": "bundle:Preview\/Images\/Beach.jpg",
                 "back_preview_is_favorite": "false",
-                "front_preview_id": "bundle:Preview\/Images\/Person 1.jpg",
+                "front_preview_id": "bundle:Preview\/Images\/Body.jpg",
                 "front_preview_is_favorite": "false",
                 "spectacles_preview_id": "bundle:Preview\/Images\/Pavement\/Pavement.jpg",
                 "spectacles_preview_is_favorite": "false"
@@ -229,7 +229,7 @@
             "preview_videos_project_config": {
                 "back_preview_id": "bundle:Preview\/Videos\/Beach.webm",
                 "back_preview_is_favorite": "false",
-                "front_preview_id": "bundle:Preview\/Videos\/Idle Person 1.webm",
+                "front_preview_id": "bundle:Preview\/Videos\/Body.webm",
                 "front_preview_is_favorite": "false",
                 "spectacles_preview_id": "bundle:Preview\/Videos\/Climbing\/Climbing.webm",
                 "spectacles_preview_is_favorite": "false"
@@ -238,7 +238,8 @@
         "InspectorUiComponent": {
             "collapsedList": [
                 [
-                    "1594688423241652:6205"
+                    "1594688423241652:6205",
+                    "1594689520415710:152720"
                 ]
             ]
         },
