@@ -3,7 +3,7 @@
     "document_id": "vVcgJFSt1wSyZdcYd4xO",
     "original_document_id": "vVcgJFSt1wSyZdcYd4xO",
     "version": "24",
-    "lastChanged": "1594691496393",
+    "lastChanged": "1594701085341",
     "preview": "icon.png",
     "videoPreview": "preview.mp4",
     "videoPreviewUpdateTime": "",
@@ -47,6 +47,11 @@
                     [
                         "Pokemon",
                         "Materials",
+                        "Base"
+                    ],
+                    [
+                        "Pokemon",
+                        "Materials",
                         "Diffuse"
                     ],
                     [
@@ -68,11 +73,6 @@
                         "Pokemon",
                         "Materials",
                         "Occlusion"
-                    ],
-                    [
-                        "Pokemon",
-                        "Materials",
-                        "Pokemon"
                     ],
                     [
                         "Pokemon",
@@ -133,6 +133,21 @@
                         "Pokemon"
                     ],
                     [
+                        "Scripts",
+                        "ChainController"
+                    ],
+                    [
+                        "Scripts",
+                        "JSMathLibrary"
+                    ],
+                    [
+                        "Scripts",
+                        "PositionBasedDynamicsHelpers"
+                    ],
+                    [
+                        "Textures"
+                    ],
+                    [
                         "Textures",
                         "Base"
                     ],
@@ -183,9 +198,13 @@
             ]
         },
         "MetaInfoUIComponent": {
+            "icon_hash": "56814dbefc6c60009fe6066406087653",
+            "icon_path": "icon.png",
             "video_preview_path": "preview.mp4",
-            "hints": "",
-            "lens": "Untitled",
+            "hints": [
+                ""
+            ],
+            "lens": "Magikarp",
             "applicability": "3",
             "lens_descriptors": ""
         },
@@ -219,9 +238,6 @@
                     "1594688423241652:6205"
                 ]
             ]
-        },
-        "Material::UiComponent": {
-            "active_graph_asset": "-1:-1"
         }
     },
     "model": {
@@ -474,6 +490,30 @@
                     "sourceFilePath": "",
                     "additionalProperties": "",
                     "flags": "1"
+                },
+                {
+                    "resId": "113",
+                    "uid": "1594697086643735:1072936",
+                    "name": "Files\/File215.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "114",
+                    "uid": "1594701041891065:192395",
+                    "name": "Files\/File216.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "115",
+                    "uid": "1594701041916455:192411",
+                    "name": "Files\/File217.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
                 }
             ],
             "MaterialUpdateManager": {
@@ -512,7 +552,8 @@
                 "12": "1594689520434159:152903",
                 "13": "1594689520435544:152920",
                 "14": "1594689520436839:152937",
-                "15": "1594689520438492:152954"
+                "15": "1594689520438492:152954",
+                "16": "1594701041921237:192423"
             }
         },
         "LayerComponent": {
@@ -774,6 +815,18 @@
                 {
                     "k": "214",
                     "v": "Files\/File214.lsmat"
+                },
+                {
+                    "k": "215",
+                    "v": "Files\/File215.js"
+                },
+                {
+                    "k": "216",
+                    "v": "Files\/File216.js"
+                },
+                {
+                    "k": "217",
+                    "v": "Files\/File217.js"
                 }
             ]
         },
@@ -800,7 +853,7 @@
                     },
                     {
                         "k": "1001",
-                        "v": "..\/AdditionalFiles\/Pokemon\/Materials\/Pokemon.lsmat"
+                        "v": "..\/AdditionalFiles\/Pokemon\/Materials\/Base.lsmat"
                     },
                     {
                         "k": "1006",
@@ -869,6 +922,22 @@
                     {
                         "k": "1023",
                         "v": "..\/AdditionalFiles\/Pokemon\/Materials\/Specular.lsmat"
+                    },
+                    {
+                        "k": "1029",
+                        "v": "Scripts\/ChainController.js"
+                    },
+                    {
+                        "k": "1030",
+                        "v": "Scripts"
+                    },
+                    {
+                        "k": "1031",
+                        "v": "Scripts\/JSMathLibrary.js"
+                    },
+                    {
+                        "k": "1032",
+                        "v": "Scripts\/PositionBasedDynamicsHelpers.js"
                     }
                 ],
                 "hashes": [
@@ -994,7 +1063,7 @@
                     },
                     {
                         "k": "1001",
-                        "v": "208f077bacd6f9e65bfee84d8d766c64"
+                        "v": "43b330561d5743bd279d9f20f9bca3b6"
                     },
                     {
                         "k": "1003",
@@ -1075,94 +1144,130 @@
                     {
                         "k": "1023",
                         "v": "d264f0770709a10547d583b5a6633b5d"
+                    },
+                    {
+                        "k": "1026",
+                        "v": "55c2b226720ae09b38a649f82aa4d9f6"
+                    },
+                    {
+                        "k": "1027",
+                        "v": "c8f7b1908edd73d7e3f53e225f0fa761"
+                    },
+                    {
+                        "k": "1028",
+                        "v": "1a7b2e5cae1daedcb612b6bf105333a9"
+                    },
+                    {
+                        "k": "1029",
+                        "v": "75cfc786052d73bea86e476190de3f01"
+                    },
+                    {
+                        "k": "1031",
+                        "v": "d3ffbd3144a880f5c980be6dae0f4110"
+                    },
+                    {
+                        "k": "1032",
+                        "v": "d50d88a36b661417b0089c16b097da41"
+                    },
+                    {
+                        "k": "1033",
+                        "v": "75cfc786052d73bea86e476190de3f01"
+                    },
+                    {
+                        "k": "1034",
+                        "v": "d3ffbd3144a880f5c980be6dae0f4110"
+                    },
+                    {
+                        "k": "1035",
+                        "v": "d50d88a36b661417b0089c16b097da41"
                     }
                 ],
                 "publicState": {
                     "tree": {
                         "isFolder": "true",
-                        "lastModified": "2020-07-13T18:27:09",
+                        "lastModified": "2020-07-13T21:31:19",
                         "name": "Public",
-                        "hash": "ba13ab6225a5b2762b5ae2209cced27e",
+                        "hash": "5722736b3fe82a0fcb49c050d490c449",
                         "children": [
                             {
                                 "isFolder": "true",
-                                "lastModified": "2020-07-13T18:26:59",
+                                "lastModified": "2020-07-13T18:57:23",
                                 "name": "Textures",
                                 "hash": "d60c18ddd6229eaceadf5d964e5c7218",
                                 "children": [
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2016-09-12T18:07:24",
+                                        "lastModified": "2020-07-13T18:57:23",
                                         "name": "Magikarp_LOW_05_Pokemon_Ambient_Occlusion.jpg",
                                         "hash": "f4883667f41e3571c8621efbbfd41148",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2016-09-12T18:07:30",
+                                        "lastModified": "2020-07-13T18:57:23",
                                         "name": "Magikarp_LOW_05_Pokemon_Emissive.jpg",
                                         "hash": "c9b39ea778e45a1b2e71ec9841cee4c5",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2016-09-12T18:07:16",
+                                        "lastModified": "2020-07-13T18:57:23",
                                         "name": "Magikarp_LOW_05_Pokemon_Glossiness.jpg",
                                         "hash": "4f07f5e5d19fc537071a8fb37409ac82",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2016-09-12T18:07:22",
+                                        "lastModified": "2020-07-13T18:57:23",
                                         "name": "Magikarp_LOW_05_Pokemon_Normal.jpg",
                                         "hash": "12a59417ffb360bdcdc8b21e3da41732",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2016-09-12T18:07:06",
+                                        "lastModified": "2020-07-13T18:57:23",
                                         "name": "Magikarp_LOW_05_Pokemon_Diffuse.jpg",
                                         "hash": "5d516af08695dda78e3fb8ac167d22a2",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2020-07-13T18:26:59",
+                                        "lastModified": "2020-07-13T18:57:23",
                                         "name": "MaterialParams.png",
                                         "hash": "af2715bddfbca2d4e72f470d285c5010",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2020-07-13T18:21:44",
+                                        "lastModified": "2020-07-13T18:57:23",
                                         "name": "Base.png",
                                         "hash": "cb607d7b25a160872c49fb4d2635cc33",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2020-07-13T18:26:59",
+                                        "lastModified": "2020-07-13T18:57:23",
                                         "name": "Normal.png",
                                         "hash": "8a0173d0b987e1abfebd4ef9e3304c0b",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2016-09-12T18:07:12",
+                                        "lastModified": "2020-07-13T18:57:23",
                                         "name": "Magikarp_LOW_05_Pokemon_Specular.jpg",
                                         "hash": "8d109e73b5889ca8299b618d2532e6ee",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2020-07-13T18:21:44",
+                                        "lastModified": "2020-07-13T18:57:23",
                                         "name": "white.png",
                                         "hash": "0c8dcfed2f50bb81ac5276a14967c005",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2020-07-13T18:21:44",
+                                        "lastModified": "2020-07-13T18:57:23",
                                         "name": "folder.lock",
                                         "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                         "children": ""
@@ -1171,21 +1276,57 @@
                             },
                             {
                                 "isFolder": "false",
-                                "lastModified": "2017-03-15T14:48:12",
+                                "lastModified": "2020-07-13T18:57:23",
                                 "name": "Pokemon.obj",
                                 "hash": "380d880eaef9ec7bb60a5aecd525d674",
                                 "children": ""
                             },
                             {
+                                "isFolder": "true",
+                                "lastModified": "2020-07-13T21:31:14",
+                                "name": "Scripts",
+                                "hash": "399f5284ec1dbb85e032d6fff2f62281",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-07-13T21:30:41",
+                                        "name": "JSMathLibrary.js",
+                                        "hash": "d3ffbd3144a880f5c980be6dae0f4110",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-07-13T21:30:41",
+                                        "name": "PositionBasedDynamicsHelpers.js",
+                                        "hash": "d50d88a36b661417b0089c16b097da41",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-07-13T20:24:02",
+                                        "name": "ChainController.js",
+                                        "hash": "75cfc786052d73bea86e476190de3f01",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-07-13T21:30:41",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
                                 "isFolder": "false",
-                                "lastModified": "2020-06-03T23:09:59",
+                                "lastModified": "2020-07-13T18:57:23",
                                 "name": "Echopark.hdr",
                                 "hash": "0cf0e87a54f33218fcf92a12d7f0ede2",
                                 "children": ""
                             },
                             {
                                 "isFolder": "false",
-                                "lastModified": "2020-06-03T23:09:17",
+                                "lastModified": "2020-07-13T18:57:23",
                                 "name": "folder.lock",
                                 "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                 "children": ""
@@ -1680,7 +1821,7 @@
                                 "additional": "",
                                 "resources": [
                                     {
-                                        "name": "Pokemon",
+                                        "name": "Base",
                                         "type": "2",
                                         "subtype": "0",
                                         "resourceId": "91",
@@ -1931,24 +2072,66 @@
                                 "additional": ""
                             }
                         ]
+                    },
+                    {
+                        "name": "Scripts",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "1030",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "JSMathLibrary",
+                                "type": "4",
+                                "subtype": "0",
+                                "resourceId": "114",
+                                "dependency": "0",
+                                "uid": "1594701041891065:192395",
+                                "fileId": "216",
+                                "originalId": "18446744073709551615",
+                                "publicId": "1031",
+                                "source": "\/private\/var\/folders\/3l\/pxx9ncrs6j38399lw07gqxbw0000gn\/T\/Lens Studio-eSAjVI\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                                "additional": ""
+                            },
+                            {
+                                "name": "PositionBasedDynamicsHelpers",
+                                "type": "4",
+                                "subtype": "0",
+                                "resourceId": "115",
+                                "dependency": "0",
+                                "uid": "1594701041916455:192411",
+                                "fileId": "217",
+                                "originalId": "18446744073709551615",
+                                "publicId": "1032",
+                                "source": "\/private\/var\/folders\/3l\/pxx9ncrs6j38399lw07gqxbw0000gn\/T\/Lens Studio-eSAjVI\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                                "additional": ""
+                            },
+                            {
+                                "name": "ChainController",
+                                "type": "4",
+                                "subtype": "0",
+                                "resourceId": "113",
+                                "dependency": "0",
+                                "uid": "1594697086643735:1072936",
+                                "fileId": "215",
+                                "originalId": "18446744073709551615",
+                                "publicId": "1029",
+                                "source": "\/Users\/ejwessel\/Desktop\/ChainController.js",
+                                "additional": ""
+                            }
+                        ]
                     }
                 ]
             }
         },
         "InspectorController": {
-            "selection": {
-                "objects": [
-                    "1594689520416463:152742",
-                    "1594689520418128:152759",
-                    "1594689520423639:152852",
-                    "1594689520426116:152869",
-                    "1594689520431317:152886",
-                    "1594689520434159:152903",
-                    "1594689520435544:152920",
-                    "1594689520436839:152937",
-                    "1594689520438492:152954"
-                ]
-            }
+            "selection": ""
         },
         "EffectsController": {
             "1": "",
@@ -1982,7 +2165,7 @@
                         "k": "1594689520415710:152720",
                         "v": {
                             "prefab": "1594689520233976:152600",
-                            "isActive": "true",
+                            "isActive": "false",
                             "mapping": [
                                 {
                                     "k": "1594689520217267:152468",
