@@ -3,7 +3,7 @@
     "document_id": "vVcgJFSt1wSyZdcYd4xO",
     "original_document_id": "vVcgJFSt1wSyZdcYd4xO",
     "version": "24",
-    "lastChanged": "1594787290011",
+    "lastChanged": "1594787540852",
     "preview": "icon.png",
     "videoPreview": "preview.mp4",
     "videoPreviewUpdateTime": "",
@@ -229,7 +229,7 @@
             "preview_videos_project_config": {
                 "back_preview_id": "bundle:Preview\/Videos\/Beach.webm",
                 "back_preview_is_favorite": "false",
-                "front_preview_id": "bundle:Preview\/Videos\/Body.webm",
+                "front_preview_id": "bundle:Preview\/Videos\/Skeletal.webm",
                 "front_preview_is_favorite": "false",
                 "spectacles_preview_id": "bundle:Preview\/Videos\/Climbing\/Climbing.webm",
                 "spectacles_preview_is_favorite": "false"
@@ -568,12 +568,7 @@
                 "13": "1594689520435544:152920",
                 "14": "1594689520436839:152937",
                 "15": "1594689520438492:152954",
-                "16": "1594782865163421:10587",
-                "17": "1594783158197049:65629",
-                "18": "1594783163436813:66418",
-                "19": "1594783177572149:68815",
-                "20": "1594783181370931:70018",
-                "21": "1594783181374682:70032"
+                "16": "1594782865163421:10587"
             }
         },
         "LayerComponent": {
@@ -2213,11 +2208,7 @@
             }
         },
         "InspectorController": {
-            "selection": {
-                "objects": [
-                    "1594689520415710:152720"
-                ]
-            }
+            "selection": ""
         },
         "EffectsController": {
             "1": "",
